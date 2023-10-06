@@ -1,0 +1,19 @@
+body {
+    background: rgba(194, 193, 193, 0.541);
+    margin: 0;
+    font-family: "Poppins";
+  }
+  
+  
+  .navbar {
+    background: white;
+    padding: 1em;
+  }
+
+  .navbar .logo {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 1.2em;
+  }
+  
